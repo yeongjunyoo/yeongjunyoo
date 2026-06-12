@@ -1,3 +1,6 @@
+<h1 align="center">Yeongjun Yoo</h1>
+<h3 align="center">Business major who builds production AI systems</h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=240&section=header&text=Yeongjun%20Yoo&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20major%20who%20builds%20production%20AI%20systems&descAlignY=58&descSize=18" alt="Yeongjun Yoo header" />
 </p>
